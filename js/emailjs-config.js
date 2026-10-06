@@ -19,6 +19,7 @@
     serviceId:       EMAILJS_SERVICE_ID,
     regTemplateId:   EMAILJS_REG_TEMPLATE,
     queryTemplateId: EMAILJS_QUERY_TEMPLATE,
+    companyName:     "EduStart Academy",
   };
 
   // Initialise EmailJS SDK
